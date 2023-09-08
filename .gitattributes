@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <https://github.com/abj-hub/My-Portfolio.git>
+git push -u origin main
